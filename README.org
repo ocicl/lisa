@@ -1,0 +1,10 @@
+* lisa
+
+This is a fork of http://sourceforge.net/projects/lisa
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/johanlindberg/lisa.git   |
+| commit  | 53c4f78  |
+| systems | lisa |
+|---------+-------------------------------------------|
+
