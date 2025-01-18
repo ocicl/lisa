@@ -1,10 +1,10 @@
 * lisa
 
-This is a fork of http://sourceforge.net/projects/lisa
+A production-quality expert-system shell, written in thoroughly modern Common Lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/johanlindberg/lisa.git   |
-| commit  | 53c4f78  |
-| systems | lisa |
-|---------+-------------------------------------------|
+|---------+--------------------------------------------|
+| source  | git:https://github.com/youngde811/Lisa.git |
+| commit  | b42048f                                    |
+| systems | lisa                                       |
+|---------+--------------------------------------------|
 
