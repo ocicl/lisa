@@ -4,7 +4,7 @@ A production-quality expert-system shell, written in thoroughly modern Common Li
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/youngde811/Lisa.git |
-| commit  | b42048f                                    |
+| commit  | b0a62f0                                    |
 | systems | lisa                                       |
 |---------+--------------------------------------------|
 
